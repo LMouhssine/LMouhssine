@@ -12,7 +12,7 @@ Passionate about transforming innovative ideas into elegant, efficient solutions
 ## 🛠️ Tech Stack
 
 ### 📝 Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,php,rust)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,php,rust,java)
 
 ### 🚀 Frontend Technologies
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vue,redux)
@@ -21,13 +21,13 @@ Passionate about transforming innovative ideas into elegant, efficient solutions
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi)
 
 ### 🗃️ Databases & ORMs
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite)
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgresql,sqlite)
 
 ### 🛠️ DevOps & Cloud
-![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab)
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,azure)
 
 ### 🧰 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=vscode,postman,notion,figma)
+![Tools](https://skillicons.dev/icons?i=vscode,postman,notion,wordpress)
 
 ### 🎨 Design & Prototyping
 ![Design](https://skillicons.dev/icons?i=figma,xd,ps,ai)
@@ -36,9 +36,6 @@ Passionate about transforming innovative ideas into elegant, efficient solutions
 - 🤖 AI/ML Integration
 - 🔒 Advanced Cybersecurity Techniques
 - 🚀 Serverless Architectures
-
-## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mouhssine-lakhili/)
 
 ---
 
