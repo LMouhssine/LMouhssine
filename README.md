@@ -1,133 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mouhssine Lakhili</h1>
-<h3 align="center">AI Agents • Data • Automation Engineer</h3>
+# Hi there! I'm Mouhssine 👋
 
-<p align="center">
-Building intelligent systems that automate the future.
-</p>
+## 🤖 AI Agents • Data • Automation Engineer
 
-<p align="center">
-<a href="https://www.mouhssinelakhili.com/">Portfolio</a> •
-<a href="https://github.com/LMouhssine">GitHub</a> •
-<a href="https://www.linkedin.com/in/mouhssine-lakhili/">LinkedIn</a>
-</p>
+Full-Stack Developer specialized in **AI-driven systems, automation and data engineering**, based in **Paris, France**.
 
----
+I design and build **intelligent software systems** that combine:
+- AI agents & LLM integrations
+- data pipelines
+- scalable APIs
+- modern web applications
 
-# 🧠 About Me
-
-AI-focused **Full Stack Engineer** based in **Paris, France 🇫🇷**.
-
-I design and develop **intelligent systems combining AI, automation and scalable software**.
-
-My work focuses on:
-
-- 🤖 **AI Agents & LLM integrations**
-- 📊 **Data pipelines & automation**
-- ⚙️ **Backend architecture & APIs**
-- 🌐 **High-performance web applications**
-
-I enjoy transforming **complex processes into automated intelligent workflows**.
+My goal: **turn complex processes into automated, intelligent systems.**
 
 ---
 
-# 🚀 Tech Focus
+## 🚀 What I Do
 
-### 🤖 AI & Automation
-
-- Claude (Claude Code)
-- OpenAI / Codex
-- GitHub Copilot
-- Cursor AI
-- LLM integrations
-- Prompt engineering
-- AI workflow automation
+- 🤖 Build **AI Agents and automation workflows**
+- 📊 Develop **data pipelines and intelligent systems**
+- ⚙️ Design **scalable backend architectures**
+- 🌐 Create **high-performance web applications**
+- 🔗 Integrate **LLMs and modern AI platforms**
 
 ---
 
-# 🛠 Tech Stack
+## 🧠 AI & Automation Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
-</p>
+- AI Platforms: Claude (Claude Code), OpenAI, GitHub Copilot, Cursor  
+- AI Development: LLM integration, prompt engineering, automation workflows  
+- Data & Automation: Python, data pipelines, ETL, automation scripts  
 
 ---
 
-# 🧪 Featured Projects
+## 🛠️ Tech Stack
 
-### 🧠 IA-AirBnB
-Machine learning pipeline predicting Airbnb prices using **Python, Pandas and Scikit-learn**.
+### 📝 Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css)
 
-### 📊 Reportify
-Automated **data analysis and reporting tool** generating visual insights from datasets.
+### 🚀 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux)
 
-### 🤖 LocalBrain
-Offline machine learning system analyzing activity logs to recommend priorities.
+### 🔧 Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi)
 
-### 🌐 SocialNetSim
-Simulation engine modeling **social network dynamics and behavioral interactions**.
+### 🗃️ Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)
 
-👉 Explore more projects on my GitHub  
-https://github.com/LMouhssine
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LMouhssine&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMouhssine&layout=compact&theme=tokyonight"/>
-</p>
+### ⚙️ DevOps
+![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,linux)
 
 ---
 
-# 🌱 Currently Exploring
+## 🧪 Selected Projects
 
-- AI Agents & autonomous systems  
-- Data engineering pipelines  
-- AI-assisted development workflows  
-- Intelligent automation systems
+🚀 **IA-AirBnB**  
+Machine learning pipeline predicting Airbnb prices using Python and Scikit-learn.
+
+📊 **Reportify**  
+Automated data analysis and reporting tool for CSV datasets.
+
+🧠 **LocalBrain**  
+Offline ML system that learns from activity logs to recommend priorities.
+
+🌐 **SocialNetSim**  
+Simulation engine modeling social network interactions and behavioral dynamics.
+
+👉 For more projects, explore my repositories here:  
+**https://github.com/LMouhssine**
 
 ---
 
-# 📫 Connect With Me
+## 🌱 Currently Exploring
 
-🌐 Portfolio  
-https://www.mouhssinelakhili.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/mouhssine-lakhili
+- AI Agents & autonomous systems
+- Data engineering & intelligent pipelines
+- AI-powered developer workflows
+- Advanced automation systems
 
 ---
 
-<p align="center">
-✨ Building intelligent software that automates the future ✨
-</p>
+## 📫 Connect with me
+
+🌐 Portfolio:  
+https://www.mouhssinelakhili.com/
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/mouhssine-lakhili/
+
+---
+
+*"Building intelligent systems that automate the future."*
