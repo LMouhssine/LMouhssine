@@ -27,7 +27,7 @@ I build **intelligent systems combining AI agents, data pipelines and scalable w
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts"/>
 </p>
 
 ### Backend
@@ -56,9 +56,3 @@ I build **intelligent systems combining AI agents, data pipelines and scalable w
 </p>
 
 Claude • OpenAI • GitHub Copilot • Cursor • AI-assisted development
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LMouhssine&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
