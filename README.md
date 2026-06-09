@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Mouhssine+%F0%9F%91%8B;Full+Stack+Developer+(JS%2FTS+and+Python);Backend%2C+Data+and+Automation;Open+to+CDI+in+Paris+%2F+Remote+France" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Mouhssine+%F0%9F%91%8B;Full+Stack+Developer+(JS%2FTS%2C+Python);Backend%2C+Data+and+Automation;Open+to+CDI+in+Paris+%2F+Remote+France" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -86,8 +86,8 @@ I like shipping useful products end-to-end (frontend → APIs → data → autom
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LMouhssine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMouhssine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LMouhssine&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMouhssine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,scss,hcl,makefile,dockerfile"/>
 </div>
 
 ---
