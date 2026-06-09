@@ -1,11 +1,15 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mouhssine+%F0%9F%91%8B;AI+%26+Automation+Engineer;Building+Intelligent+Systems;Turning+Ideas+into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Mouhssine+%F0%9F%91%8B;Full+Stack+Developer+(JS%2FTS+and+Python);Backend%2C+Data+and+Automation;Open+to+CDI+in+Paris+%2F+Remote+France" alt="Typing SVG" />
 </h1>
 
+<p>
+  <a href="https://www.mouhssinelakhili.com/fr"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mouhssine-lakhili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-CDI%20in%20Paris%20%2F%20Remote%20France-22C55E?style=for-the-badge"/>
+</p>
 </div>
 
 ---
@@ -14,14 +18,15 @@
 
 > *"Automate the boring, amplify the human."*
 
-I'm a **Full Stack & AI Engineer** based in **Paris 🇫🇷**, focused on building intelligent, production-ready systems.
+I'm a **Full Stack Developer** based in **Paris 🇫🇷**, with ~3 years of work-study experience building web apps, APIs and automation — plus a real specialty in **applied AI & data**.
 
-I specialize in turning complex workflows into elegant automated solutions — combining **LLMs, data pipelines, and scalable web architecture** to ship things that actually work at scale.
+I like shipping useful products end-to-end (frontend → APIs → data → automation) with clean architecture, tests and CI/CD. At **TRUST ID**, I built internal web apps and an **internal AI assistant that cut document-processing time by up to 70%**.
 
-- 🔭 Currently building **AI agents** that automate real business workflows
-- 🧪 Experimenting with **multi-agent architectures** and **RAG pipelines**
-- 💡 Passionate about the intersection of **product thinking + engineering**
-- 🌍 Open to **collaborations, freelance, and interesting side projects**
+- 🧩 Core: **React · Next.js · Node.js · TypeScript · Python**
+- 🤖 Specialty: **LLM integration, AI agents & workflow automation**
+- 📚 Leveling up via real projects: **Java/Spring · .NET/C# · Angular**
+- 🎓 Master's-level program in Digital & Data Solutions (Bac+5, RNCP level 7) — 2026
+- 🎯 **Open to full-time (CDI) roles** in the Paris area — on-site, hybrid or remote (France)
 
 ---
 
@@ -29,49 +34,61 @@ I specialize in turning complex workflows into elegant automated solutions — c
 
 | Area | Focus |
 |------|-------|
-| 🤖 **AI Agents** | LLM integrations, tool-calling agents, RAG, prompt engineering |
-| 🔄 **Automation** | End-to-end data pipelines, workflow automation, scraping systems |
-| ⚙️ **Backend** | REST & GraphQL APIs, microservices, async systems |
-| 🌐 **Frontend** | React/Next.js apps, dashboards, real-time UIs |
+| 🌐 **Full Stack** | React/Next.js apps, dashboards, real-time UIs, end-to-end features |
+| ⚙️ **Backend** | REST APIs, auth (JWT/OAuth), SQL modeling, clean architecture |
+| 🔄 **Automation** | Data pipelines, workflow automation, reporting |
+| 🤖 **Applied AI** | LLM integrations, tool-calling agents, RAG, prompt engineering |
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+**Core stack — daily use**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,express,fastapi,tailwind"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,linux"/>
 </p>
 
-### 🔙 Backend
+**📚 Leveling up — via personal projects**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,angular"/>
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
+<sub>Also exploring (notions): Kubernetes · Terraform · Prometheus / Grafana · Azure / AWS</sub>
 
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-</p>
+**🤖 AI & LLM Ecosystem**
 
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode"/>
-</p>
-
-### 🤖 AI & LLM Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6366F1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **[OpsPilot](https://github.com/LMouhssine/OpsPilot)** | Cloud-native incident management & FinOps platform *(personal project — leveling up on Java/Spring)* | Java 21 · Spring Boot · Next.js · PostgreSQL · Docker · K8s |
+| **[Accessly](https://github.com/LMouhssine/Accessly)** | Real-time event access & ticketing *(personal project — leveling up on .NET)* | .NET · ASP.NET Core · CQRS · EF Core · SQL Server · Angular |
+| **[IA-AirBnB](https://github.com/LMouhssine/IA-AirBnB)** | Data-science pipeline predicting Airbnb prices | Python · Pandas · Scikit-learn |
+| **[SmartDAM](https://github.com/LMouhssine/SmartDAM)** | AI-powered digital asset manager (auto image tagging & search) | Python · Flask · HuggingFace |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LMouhssine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMouhssine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
 ---
 
